@@ -1,0 +1,46 @@
+[
+  {
+    "timestamp": "2026-02-09T15:53:27.061960",
+    "level": "INFO",
+    "type": "user_input",
+    "metadata": {
+      "user_id": "facea99f-e19c-486e-88f2-9b18f496e3c4",
+      "session_id": "facea99f-e19c-486e-88f2-9b18f496e3c4",
+      "model": "gpt-4o-mini"
+    }
+  },
+  {
+    "timestamp": "2026-02-09T15:53:28.669922",
+    "level": "INFO",
+    "type": "model_response",
+    "model_response": "Hello! How can I assist you today?",
+    "metadata": {
+      "session_id": "facea99f-e19c-486e-88f2-9b18f496e3c4",
+      "model": "gpt-4o-mini",
+      "response_time_seconds": 1.606484,
+      "tokens_used": 35
+    }
+  },
+  {
+    "timestamp": "2026-02-09T15:53:35.806454",
+    "level": "INFO",
+    "type": "user_input",
+    "metadata": {
+      "user_id": "facea99f-e19c-486e-88f2-9b18f496e3c4",
+      "session_id": "facea99f-e19c-486e-88f2-9b18f496e3c4",
+      "model": "gpt-4o-mini"
+    }
+  },
+  {
+    "timestamp": "2026-02-09T15:53:39.840616",
+    "level": "INFO",
+    "type": "model_response",
+    "model_response": "The meaning of life is a profound question that has been explored by philosophers, theologians, scientists, and thinkers throughout history. Different cultures and individuals may find different meanings based on their beliefs, experiences, and values. Here are a few perspectives:\n\n1. **Philosophical**: Existentialists, for instance, argue that life has no inherent meaning and that individuals must create their own purpose through choices and actions.\n\n2. **Religious**: Many religious traditions suggest that the meaning of life involves fulfilling a divine purpose, such as serving God, learning and growing spiritually, and contributing to the well-being of others.\n\n3. **Scientific**: From a biological perspective, some might say the purpose of life is to survive, reproduce, and contribute to the evolution of species.\n\n4. **Personal**: Many people find meaning through relationships, achievements, love, and personal growth.\n\nUltimately, it's a deeply personal question, and the answer often evolves over time. What does the meaning of life signify to you?",
+    "metadata": {
+      "session_id": "facea99f-e19c-486e-88f2-9b18f496e3c4",
+      "model": "gpt-4o-mini",
+      "response_time_seconds": 4.03205,
+      "tokens_used": 254
+    }
+  }
+]
